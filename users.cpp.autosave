@@ -1,0 +1,11 @@
+#include "users.h"
+#include "QString"
+
+Users::Users()
+{
+    int id ;
+    QString fullname ;
+    int PhonNr ;
+    
+
+}
